@@ -1,5 +1,7 @@
 # phase-0-gps-1
 
+## Git commands
+
 * git init: it turns directory into repo
 * git add: this stages a file to be committed
 * git commit: the files is staged and changes finalized
